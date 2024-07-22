@@ -590,7 +590,10 @@ tracks/1/keys = {
 [sub_resource type="Animation" id="Animation_pq4fy"]
 resource_name = "attack1"
 length = 0.6
+<<<<<<< HEAD
 loop_mode = 1
+=======
+>>>>>>> f7589c9756e7dcde3d75ec55696ac0e7d846c9b0
 tracks/0/type = "value"
 tracks/0/imported = false
 tracks/0/enabled = true
@@ -704,7 +707,11 @@ tracks/1/keys = {
 [sub_resource type="Animation" id="Animation_nnsq6"]
 resource_name = "jump"
 length = 0.3
+<<<<<<< HEAD
 loop_mode = 2
+=======
+loop_mode = 1
+>>>>>>> f7589c9756e7dcde3d75ec55696ac0e7d846c9b0
 tracks/0/type = "value"
 tracks/0/imported = false
 tracks/0/enabled = true
@@ -724,7 +731,11 @@ tracks/1/path = NodePath("AnimatedSprite2D:frame")
 tracks/1/interp = 1
 tracks/1/loop_wrap = true
 tracks/1/keys = {
+<<<<<<< HEAD
 "times": PackedFloat32Array(0, 0.1, 0.2, 0.3),
+=======
+"times": PackedFloat32Array(0, 0.1, 0.2, 0.6),
+>>>>>>> f7589c9756e7dcde3d75ec55696ac0e7d846c9b0
 "transitions": PackedFloat32Array(1, 1, 1, 1),
 "update": 1,
 "values": [0, 1, 2, 3]
@@ -732,7 +743,10 @@ tracks/1/keys = {
 
 [sub_resource type="Animation" id="Animation_kmw4l"]
 resource_name = "run"
+<<<<<<< HEAD
 loop_mode = 1
+=======
+>>>>>>> f7589c9756e7dcde3d75ec55696ac0e7d846c9b0
 tracks/0/type = "value"
 tracks/0/imported = false
 tracks/0/enabled = true
@@ -758,6 +772,7 @@ tracks/1/keys = {
 "values": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 }
 
+<<<<<<< HEAD
 [sub_resource type="Animation" id="Animation_tfpo2"]
 resource_name = "run_left"
 length = 0.9
@@ -787,6 +802,8 @@ tracks/1/keys = {
 "values": [0, 1, 2, 3, 4, 5, 6, 7, 8]
 }
 
+=======
+>>>>>>> f7589c9756e7dcde3d75ec55696ac0e7d846c9b0
 [sub_resource type="AnimationLibrary" id="AnimationLibrary_l7hdy"]
 _data = {
 "RESET": SubResource("Animation_hwyrt"),
