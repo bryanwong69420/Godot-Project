@@ -1,6 +1,6 @@
-TextureRect
 AnimationTree
 AnimationPlayer
+TextureRect
 TileMap
 Camera2D
 CollisionShape2D
