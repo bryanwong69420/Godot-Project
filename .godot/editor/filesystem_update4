@@ -1,0 +1,7 @@
+res://Mecha-stoneGolem/BossGolem.tscn
+res://Mecha-stoneGolem/BossGolem.gd
+res://Mecha-stoneGolem/Boss_Idle.gd
+res://levels/level.tscn
+res://player/player.tscn
+res://Mecha-stoneGolem/FiniteStateMachine.gd
+res://Mecha-stoneGolem/Boss_Follow.gd
